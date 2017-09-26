@@ -5,7 +5,7 @@
 * ***Magic Number***
 * ***Armstrong Number*** (https://www.google.com )[Click Here]
 
--[ ] Work Done
+- [ ] Work Done
  
  My readme File concludes her
  # Created By : GUNEET GARG 

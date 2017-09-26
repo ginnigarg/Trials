@@ -2,7 +2,7 @@
 int main()
 {
     int num,size=10;
-    printf ("Enter the number : ");
+    printf ("Enter the number : ");//Palindrome Number
     scanf ("%d",&num);
     int digits[size],n,num1=num;
     for (n=0;num1>0;n++) {

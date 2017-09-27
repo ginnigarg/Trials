@@ -1,6 +1,6 @@
 # Trials
 ## Hello Guys
-- C Programs
+- ### C Programs
 * ***Palindrome Numbers***
 * ***Magic Number***
 * ***Armstrong Number*** (https://www.google.com)
